@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Projects
+
+- **[Project Name 1](https://github.com/your-username/project1)** - Brief description of the project.
+- **[Project Name 2](https://github.com/your-username/project2)** - Brief description of the project.
+- **[Project Name 3](https://github.com/your-username/project3)** - Brief description of the project.
+
 <!--
 **geoff-park/geoff-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
