@@ -16,7 +16,7 @@
 
 ---
 
-- solved.ac [[profile](https://solved.ac/profile/geoff)]
+- **solved.ac [[profile](https://solved.ac/profile/geoff)]**
 
 <!--
 **geoff-park/geoff-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
