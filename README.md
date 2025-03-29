@@ -2,6 +2,12 @@
 
 **System Software Engineer (Aspirant)**
 
+### Interests
+
+- **ARM Architecture**
+- **Operating Systems**
+- **Machine Learning**
+
 ### Projects
 
 - **[Project Name 1](https://github.com/your-username/project1)** - Brief description of the project.
