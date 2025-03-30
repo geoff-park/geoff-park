@@ -14,6 +14,11 @@
 - **[Project Name 2](https://github.com/your-username/project2)** - Brief description of the project.
 - **[Project Name 3](https://github.com/your-username/project3)** - Brief description of the project.
 
+### Contact
+
+- Email: geoffrey.youngha.park@gmail.com
+- Blog: [https://velog.io/@geoff/posts](https://velog.io/@geoff/posts)
+
 ---
 
 - **solved.ac [[profile](https://solved.ac/profile/geoff)]**
