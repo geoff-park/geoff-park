@@ -17,7 +17,7 @@
 ### Contact
 
 - Email: geoffrey.youngha.park@gmail.com
-- Blog: [https://velog.io/@geoff/posts](https://velog.io/@geoff/posts)
+- Blog: [https://velog.io/@geoff](https://velog.io/@geoff)
 
 ---
 
