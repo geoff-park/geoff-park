@@ -2,23 +2,23 @@
 
 **System Software Engineer (Aspirant)**
 
-### Interests
+#### Interests
 
 - ARM Architecture
 - Operating Systems
 - Machine Learning
 
-### Skills
+#### Skills
 
 - Languages: C / C++ / Python
 
-### Projects
+#### Projects
 
 - [Project Name 1](https://github.com/your-username/project1) - Brief description of the project.
 - [Project Name 2](https://github.com/your-username/project2) - Brief description of the project.
 - [Project Name 3](https://github.com/your-username/project3) - Brief description of the project.
 
-### Contact
+#### Contact
 
 - Email: geoffrey.youngha.park@gmail.com
 - Blog: [https://velog.io/@geoff](https://velog.io/@geoff)
