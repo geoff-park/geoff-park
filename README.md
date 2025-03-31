@@ -1,24 +1,22 @@
 ## Hi there 👋
 
-![Image](https://github.com/user-attachments/assets/5f36dad7-5ef9-49dd-adf6-a4e8455f1dde)
-
 **System Software Engineer (Aspirant)**
 
 ### Interests
 
-- **ARM Architecture**
-- **Operating Systems**
-- **Machine Learning**
+- ARM Architecture
+- Operating Systems
+- Machine Learning
 
 ### Skills
 
-- **Languages: C / C++ / Python**
+- Languages: C / C++ / Python
 
 ### Projects
 
-- **[Project Name 1](https://github.com/your-username/project1)** - Brief description of the project.
-- **[Project Name 2](https://github.com/your-username/project2)** - Brief description of the project.
-- **[Project Name 3](https://github.com/your-username/project3)** - Brief description of the project.
+- [Project Name 1](https://github.com/your-username/project1) - Brief description of the project.
+- [Project Name 2](https://github.com/your-username/project2) - Brief description of the project.
+- [Project Name 3](https://github.com/your-username/project3) - Brief description of the project.
 
 ### Contact
 
@@ -27,8 +25,8 @@
 
 ---
 
-- **solved.ac [[profile](https://solved.ac/profile/geoff)]**
-- **[study log](https://github.com/geoff-park/geoff-park/blob/main/log.md)** 🌱
+- solved.ac [[profile](https://solved.ac/profile/geoff)]
+- [study log](https://github.com/geoff-park/geoff-park/blob/main/log.md) 🌱
 
 <!--
 **geoff-park/geoff-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
