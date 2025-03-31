@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Image](https://github.com/user-attachments/assets/5f36dad7-5ef9-49dd-adf6-a4e8455f1dde)
+
 **System Software Engineer (Aspirant)**
 
 ### Interests
