@@ -24,6 +24,7 @@
 ---
 
 - **solved.ac [[profile](https://solved.ac/profile/geoff)]**
+- **[study log](https://github.com/geoff-park/geoff-park/blob/main/log.md)** 🌱
 
 <!--
 **geoff-park/geoff-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
