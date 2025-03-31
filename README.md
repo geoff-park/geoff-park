@@ -10,6 +10,10 @@
 - **Operating Systems**
 - **Machine Learning**
 
+### Skills
+
+- Languages: C | C++ | Python
+
 ### Projects
 
 - **[Project Name 1](https://github.com/your-username/project1)** - Brief description of the project.
