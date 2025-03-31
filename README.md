@@ -12,7 +12,7 @@
 
 ### Skills
 
-- **Languages: C | C++ | Python**
+- **Languages: C/C++/Python**
 
 ### Projects
 
