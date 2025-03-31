@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**System Software Engineer (Aspirant)**
-
 #### Interests
 
 - ARM Architecture
