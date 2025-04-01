@@ -8,8 +8,8 @@
 
 #### Tech Stack
 
-- Main Languages: C, C++, Python
-- Also Familiar With: Java, JavaScript, Dart
+- **Main Languages**: C, C++, Python
+- **Also Familiar With**: Java, JavaScript, Dart
 
 #### Projects
 
