@@ -6,9 +6,10 @@
 - Operating Systems
 - Machine Learning
 
-#### Skills
+#### Tech Stack
 
-- Languages: C / C++ / Python
+- Main Languages: C, C++, Python
+- Also Familiar With: Java, JavaScript, Dart
 
 #### Projects
 
