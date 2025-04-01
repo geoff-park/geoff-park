@@ -2,6 +2,8 @@
 
 ## 인프런
 
+#### ✅ 김동현 (Austin Kim) 님 강의
+
 #### ✅ 널널한 개발자 님 강의
 
 - 넓고 얕게 외워서 컴공 전공자 되기 [[certificate](https://www.inflearn.com/certificate/1597137-329605-14054400)]
