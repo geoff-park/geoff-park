@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/84863ab8-a87b-4b8a-88c7-a996a4f63242" width="20%">
 
-## INFLEARN
+## 인프런
 
 #### ✅ 널널한 개발자 님 강의
 
@@ -8,4 +8,4 @@
 
 #### ✅ 효빈 Hyobin 님 강의
 
-## BOOKS
+## 도서
