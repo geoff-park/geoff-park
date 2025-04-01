@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/84863ab8-a87b-4b8a-88c7-a996a4f63242)
+<img src="https://github.com/user-attachments/assets/84863ab8-a87b-4b8a-88c7-a996a4f63242" width="20%">
 
 ## 인프런
 
