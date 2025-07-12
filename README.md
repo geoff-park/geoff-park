@@ -8,8 +8,6 @@ In my free time, I enjoy solving algorithm problems! ✏️
 - `AtCoder`
 - `solved.ac Gold I`
 
-Always curious about how things work under the hood!
-
 Feel free to reach out to me! (Korean, Japanese, English available!)
 
 - Email: geoffrey.youngha.park@gmail.com
