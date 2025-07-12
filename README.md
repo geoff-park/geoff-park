@@ -2,7 +2,11 @@ Hi! I'm **Youngha Park**, currently studying Computer Science and Law at univers
 
 I'm particularly interested in **Operating Systems, System Programming, and ARM Architecture**.
 
-In my free time, I enjoy solving algorithm problems! ✏️ `solved.ac Gold I`
+In my free time, I enjoy solving algorithm problems! ✏️
+
+- `Codeforces`
+- `AtCoder`
+- `solved.ac Gold I`
 
 Always curious about how things work under the hood!
 
