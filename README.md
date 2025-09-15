@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0e6ae021-f69b-47a8-9f10-3c6380fe7d93" />
+
 #### Interests
 
 - **ARM Architecture**
