@@ -1,17 +1,27 @@
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0e6ae021-f69b-47a8-9f10-3c6380fe7d93" />
+<div align="center">
+
+<img width="700" alt="Wallpaper" src="https://github.com/user-attachments/assets/0e6ae021-f69b-47a8-9f10-3c6380fe7d93" />
 
 #### Interests
 
-- **ARM Architecture**
-- **Linux Kernel**
+ARM Architecture / Linux Kernel
+
+<br>
 
 #### Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+C11 / C++14 / Python
 
-#### Problem Solving (Codeforces / solved.ac)
+<br>
 
-[![CodeForces Profile](https://cf.leed.at?id=geoff-park)](https://codeforces.com/profile/geoff-park)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geoff)](https://solved.ac/geoff)
+#### Problem Solving
+
+Codeforces Pupil
+
+https://codeforces.com/profile/geoff-park
+
+solved.ac Platinum IV
+
+https://solved.ac/profile/geoff
+
+</div>
