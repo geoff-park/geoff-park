@@ -6,19 +6,11 @@
 
 System Software / ARM Architecture / Linux Kernel
 
-<br>
-
 #### Projects
-
-[here]()
-
-<br>
 
 #### Languages
 
 C11 / C++14 / Python
-
-<br>
 
 #### Problem Solving
 
