@@ -16,12 +16,8 @@ C11 / C++14 / Python
 
 #### Problem Solving
 
-Codeforces Pupil
-
-https://codeforces.com/profile/geoff-park
-
-solved.ac Platinum IV
-
-https://solved.ac/profile/geoff
+[![CodeForces Profile](https://cf.leed.at?id=geoff-park&mini=true)](https://codeforces.com/profile/geoff-park)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=geoff)](https://solved.ac/geoff)
 
 </div>
