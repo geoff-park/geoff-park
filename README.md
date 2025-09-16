@@ -2,6 +2,10 @@
 
 <img width="700" alt="Wallpaper" src="https://github.com/user-attachments/assets/0e6ae021-f69b-47a8-9f10-3c6380fe7d93" />
 
+### Geoffrey Youngha Park (박영하)
+
+<br>
+
 #### Interests
 
 System Software / ARM Architecture / Linux Kernel
