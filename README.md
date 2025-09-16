@@ -8,7 +8,7 @@
 
 #### Interests
 
-System Software / ARM Architecture / Linux Kernel
+System Software / ARM Architecture / Linux Kernel / Machine Learning
 
 #### Projects
 
