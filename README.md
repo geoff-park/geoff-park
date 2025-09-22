@@ -1,21 +1,24 @@
-<div>
+<div align="center">
 
-## Interests
+**Interests**
 
-- System Software / ARM Architecture / Linux Kernel / Machine Learning
+System Software / ARM Architecture / Linux Kernel / Machine Learning
 
-## [Projects]()
+<br>
 
-## Languages
+**Languages**
 
-- C11 / C++14 / Python
+C11 / C++14 / Python
 
-## Problem Solving
+<br>
+
+[Projects]()
+
+[Blog](https://geoff-park.tistory.com/)
+
+<br>
 
 [![CodeForces Profile](https://cf.leed.at?id=geoff-park&mini=true)](https://codeforces.com/profile/geoff-park)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=geoff)](https://solved.ac/geoff)
-
-## [Blog](https://geoff-park.tistory.com/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=geoff)](https://solved.ac/geoff)
 
 </div>
