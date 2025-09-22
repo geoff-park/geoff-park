@@ -1,28 +1,21 @@
 <div>
 
-### Geoffrey Youngha Park (박영하)
+## Interests
 
-#### 🔖 Interests
+- System Software / ARM Architecture / Linux Kernel / Machine Learning
 
-- System Software
-- ARM Architecture
-- Linux Kernel
-- Machine Learning
+## [Projects]()
 
-#### 🔖 [Projects]()
+## Languages
 
-#### 🔖 Languages
+- C11 / C++14 / Python
 
-- C11
-- C++14
-- Python
-
-#### 🔖 Problem Solving
+## Problem Solving
 
 [![CodeForces Profile](https://cf.leed.at?id=geoff-park&mini=true)](https://codeforces.com/profile/geoff-park)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=geoff)](https://solved.ac/geoff)
 
-#### 🔖 [Blog](https://geoff-park.tistory.com/)
+## [Blog](https://geoff-park.tistory.com/)
 
 </div>
