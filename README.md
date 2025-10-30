@@ -1,1 +1,2 @@
-atcoder handle: [geoff_park](https://atcoder.jp/users/geoff_park)
+- Skills: C, C++, Python, FastAPI, PyTorch
+- AtCoder: [geoff_park](https://atcoder.jp/users/geoff_park)
