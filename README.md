@@ -1,7 +1,3 @@
-**Skills**
+Skills: C, C++, Python, FastAPI, PyTorch
 
-- C, C++, Python, FastAPI, PyTorch
-
-**AtCoder**
-
-- [geoff_park](https://atcoder.jp/users/geoff_park)
+<img src="https://atrating.baoshuo.dev/rating?username=geoff_park">
